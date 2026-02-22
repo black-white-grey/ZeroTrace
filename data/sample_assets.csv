@@ -1,0 +1,16 @@
+software,version
+Apache HTTP Server,2.4.1
+nginx,1.18.0
+PostgreSQL,13.0
+Node.js,16.14.0
+OpenSSL,1.1.1k
+Redis,6.2.0
+MySQL,8.0.25
+MongoDB,5.0.0
+Python,3.9.0
+Docker,20.10.7
+Git,2.31.0
+Apache HTTP Server,2.4.50
+PostgreSQL,15.0
+Node.js,18.0.0
+OpenSSL,3.0.0
